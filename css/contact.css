@@ -1,0 +1,28 @@
+.contact {
+  border-collapse: collapse;
+}
+.contact tr{
+  height: 7rem;
+}
+.contact th {
+  width: 150px;
+  text-align: right;
+}
+.contact td{
+  padding-left: 10px;
+}
+.form {
+  width: 480px;
+}
+.submit {
+  margin : 0 auto;
+  display: table;
+  font-size: 3rem;
+  padding: 10px;
+  background-color: #008b8b;
+  color: #fff
+}
+a :hover {
+  opacity: 0.5;
+}
+
